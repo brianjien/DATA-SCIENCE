@@ -30,7 +30,10 @@ YOLOv2  is known for its speed and efficiency, processing up to 150 frames per s
 ### Results
 
 The system successfully identified traffic lights from video inputs with high accuracy, achieving detection rates over 88%. The results were displayed with bounding boxes around the detected traffic lights, and corresponding labels ("STOP", "GO", "SLOW") were assigned based on the light's color.
-<video controls src="Result.mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/9278668e-b076-48a9-8249-70eed501c116
+
 
 ### Future Work
 
