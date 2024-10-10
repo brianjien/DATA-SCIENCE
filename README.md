@@ -12,7 +12,7 @@ We aimed to develop a method that detects traffic lights in real-time from video
 
 ### Method
 
-We used Matlab and two popular object detection models: **YOLOv2** and **Fast R-CNN**. YOLOv2 is a real-time object detection model that identifies and processes traffic light images at high speeds, while Fast R-CNN offers more accurate detection by using a two-stage process. 
+I used Matlab and two popular object detection models: **YOLOv2** and **Fast R-CNN**. YOLOv2 is a real-time object detection model that identifies and processes traffic light images at high speeds, while Fast R-CNN offers more accurate detection by using a two-stage process. 
 
 1. **Video Processing**: The video input was first divided into individual frames to make it suitable for object detection.
 2. **Object Detection**: We trained the YOLOv2 and Fast R-CNN models to detect traffic lights and their states (red, yellow, green) from these frames.
